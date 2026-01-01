@@ -44,6 +44,11 @@ It uses **Computer Vision** techniques with **OpenCV**, **MediaPipe**, and **PyA
 ## 🎥 Demo Video
 *(Demo video is shown below)*
 
+
+https://github.com/user-attachments/assets/afa56558-3e15-48e8-993c-23602024d7c6
+
+
+
 ---
 
 ## 👩‍💻 Author
